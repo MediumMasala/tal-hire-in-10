@@ -1,0 +1,315 @@
+{
+ "engineers": {
+  "tag": "SOFTWARE ENGINEERS",
+  "endWhat": "top software engineers",
+  "file": "Find Top Software Engineers",
+  "trio": [
+   {
+    "name": "Aditya Kulkarni",
+    "photo": "aditya-kulkarni",
+    "fx": 0.5
+   },
+   {
+    "name": "Neha Iyer",
+    "photo": "neha-iyer",
+    "fx": 0.5
+   },
+   {
+    "name": "Rohan Das",
+    "photo": "rohan-das",
+    "fx": 0.5
+   }
+  ]
+ },
+ "pm": {
+  "tag": "PRODUCT MANAGERS",
+  "endWhat": "top product managers",
+  "file": "Find Top Product Managers",
+  "trio": [
+   {
+    "name": "Siddharth Jain",
+    "photo": "siddharth-jain",
+    "fx": 0.432
+   },
+   {
+    "name": "Ananya Menon",
+    "photo": "ananya-menon",
+    "fx": 0.505
+   },
+   {
+    "name": "Varun Reddy",
+    "photo": "varun-reddy",
+    "fx": 0.26
+   }
+  ]
+ },
+ "designer": {
+  "tag": "DESIGNERS",
+  "endWhat": "top designers",
+  "file": "Find Top Designers",
+  "trio": [
+   {
+    "name": "Kabir Sethi",
+    "photo": "kabir-sethi",
+    "fx": 0.497
+   },
+   {
+    "name": "Tara Fernandes",
+    "photo": "tara-fernandes",
+    "fx": 0.5
+   },
+   {
+    "name": "Nikhil Bose",
+    "photo": "nikhil-bose",
+    "fx": 0.454
+   }
+  ]
+ },
+ "marketer": {
+  "tag": "MARKETERS",
+  "endWhat": "top marketers",
+  "file": "Find Top Marketers",
+  "trio": [
+   {
+    "name": "Arjun Pillai",
+    "photo": "arjun-pillai",
+    "fx": 0.537
+   },
+   {
+    "name": "Ishita Kapoor",
+    "photo": "ishita-kapoor",
+    "fx": 0.5
+   },
+   {
+    "name": "Meera Joshi",
+    "photo": "meera-joshi",
+    "fx": 0.448
+   }
+  ]
+ },
+ "bd": {
+  "tag": "BD MANAGERS",
+  "endWhat": "top BD managers",
+  "file": "Find Top BD Managers",
+  "trio": [
+   {
+    "name": "Kunal Mehra",
+    "photo": "kunal-mehra",
+    "fx": 0.5
+   },
+   {
+    "name": "Pranav Shah",
+    "photo": "pranav-shah",
+    "fx": 0.5
+   },
+   {
+    "name": "Simran Kaur",
+    "photo": "simran-kaur",
+    "fx": 0.5
+   }
+  ]
+ },
+ "sales": {
+  "tag": "SALESPEOPLE",
+  "endWhat": "top salespeople",
+  "file": "Find Top Salespeople",
+  "trio": [
+   {
+    "name": "Vivek Nair",
+    "photo": "vivek-nair",
+    "fx": 0.5
+   },
+   {
+    "name": "Kavya Shetty",
+    "photo": "kavya-shetty",
+    "fx": 0.5
+   },
+   {
+    "name": "Imran Qureshi",
+    "photo": "imran-qureshi",
+    "fx": 0.365
+   }
+  ]
+ },
+ "strategy": {
+  "tag": "STRATEGY MANAGERS",
+  "endWhat": "top strategy managers",
+  "file": "Find Top Strategy Managers",
+  "trio": [
+   {
+    "name": "Manav Gupta",
+    "photo": "manav-gupta",
+    "fx": 0.5
+   },
+   {
+    "name": "Arnav Saxena",
+    "photo": "arnav-saxena",
+    "fx": 0.5
+   },
+   {
+    "name": "Harsh Vora",
+    "photo": "harsh-vora",
+    "fx": 0.5
+   }
+  ]
+ },
+ "generalist": {
+  "tag": "GENERALISTS",
+  "endWhat": "top generalists",
+  "file": "Find Top Generalists",
+  "trio": [
+   {
+    "name": "Akash Tiwari",
+    "photo": "akash-tiwari",
+    "fx": 0.5
+   },
+   {
+    "name": "Riddhi Desai",
+    "photo": "riddhi-desai",
+    "fx": 0.354
+   },
+   {
+    "name": "Sameer Ansari",
+    "photo": "sameer-ansari",
+    "fx": 0.443
+   }
+  ]
+ },
+ "partnerships": {
+  "tag": "PARTNERSHIP MANAGERS",
+  "endWhat": "top partnership managers",
+  "file": "Find Top Partnership Managers",
+  "trio": [
+   {
+    "name": "Gautam Rao",
+    "photo": "gautam-rao",
+    "fx": 0.5
+   },
+   {
+    "name": "Nandini Krishnan",
+    "photo": "nandini-krishnan",
+    "fx": 0.5
+   },
+   {
+    "name": "Abhishek Yadav",
+    "photo": "abhishek-yadav",
+    "fx": 0.477
+   }
+  ]
+ },
+ "leadership": {
+  "tag": "SENIOR LEADERS",
+  "endWhat": "top senior leaders",
+  "file": "Find Top Senior Leaders - For Free",
+  "subline": "Meet top senior leaders. For free.",
+  "trio": [
+   {
+    "name": "Rajiv Malhotra",
+    "photo": "rajiv-malhotra",
+    "fx": 0.5
+   },
+   {
+    "name": "Sunita Bhargava",
+    "photo": "sunita-bhargava",
+    "fx": 0.5
+   },
+   {
+    "name": "Ramesh Venkat",
+    "photo": "ramesh-venkat",
+    "fx": 0.5
+   }
+  ]
+ },
+ "hr": {
+  "tag": "ENGINEERS",
+  "endWhat": "top engineers",
+  "file": "For HR and Talent Teams - Find Top Engineers",
+  "subline": "Built for HR and talent teams.",
+  "trio": [
+   {
+    "name": "Tushar Patil",
+    "photo": "tushar-patil",
+    "fx": 0.425
+   },
+   {
+    "name": "Sneha Arora",
+    "photo": "sneha-arora",
+    "fx": 0.393
+   },
+   {
+    "name": "Mohit Bansal",
+    "photo": "mohit-bansal",
+    "fx": 0.559
+   }
+  ]
+ },
+ "chro": {
+  "tag": "SENIOR LEADERS",
+  "endWhat": "top senior leaders",
+  "file": "For CHROs - Find Top Senior Leaders",
+  "subline": "Built for CHROs.",
+  "trio": [
+   {
+    "name": "Prakash Iyengar",
+    "photo": "prakash-iyengar",
+    "fx": 0.5
+   },
+   {
+    "name": "Vikrant Sood",
+    "photo": "vikrant-sood",
+    "fx": 0.5
+   },
+   {
+    "name": "Aparna Mishra",
+    "photo": "aparna-mishra",
+    "fx": 0.5
+   }
+  ]
+ },
+ "siteleads": {
+  "tag": "ENGINEERING MANAGERS",
+  "endWhat": "top engineering managers",
+  "file": "For Site Leads and Directors - Find Top Engineering Managers",
+  "subline": "Built for site leads and directors.",
+  "trio": [
+   {
+    "name": "Sanjay Kumar",
+    "photo": "sanjay-kumar",
+    "fx": 0.431
+   },
+   {
+    "name": "Rahul Bhatt",
+    "photo": "rahul-bhatt",
+    "fx": 0.5
+   },
+   {
+    "name": "Lakshmi Narayanan",
+    "photo": "lakshmi-narayanan",
+    "fx": 0.575
+   }
+  ]
+ },
+ "sitecountry": {
+  "tag": "ENGINEERING MANAGERS",
+  "endWhat": "top engineering managers",
+  "file": "For Site Leads and Country Managers - Find Top Engineering Managers",
+  "subline": "Built for site leads and country managers.",
+  "trio": [
+   {
+    "name": "Deepak Chawla",
+    "photo": "deepak-chawla",
+    "fx": 0.649
+   },
+   {
+    "name": "Anirudh Sharma",
+    "photo": "anirudh-sharma",
+    "fx": 0.543
+   },
+   {
+    "name": "Arvind Ghosh",
+    "photo": "arvind-ghosh",
+    "fx": 0.5
+   }
+  ]
+ }
+}

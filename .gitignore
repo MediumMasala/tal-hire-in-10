@@ -1,0 +1,5 @@
+node_modules
+out
+.DS_Store
+# Obviously (OH no Type Co) is a licensed typeface; these are demo files, so they are not redistributed here
+public/fonts/*.otf

@@ -1,0 +1,58 @@
+{
+ "engineers": {
+  "src": "k-ft-engineers.png",
+  "ar": 0.41369047619047616
+ },
+ "pm": {
+  "src": "k-ft-pm.png",
+  "ar": 0.43333333333333335
+ },
+ "designer": {
+  "src": "k-ft-designer.png",
+  "ar": 0.5446428571428571
+ },
+ "marketer": {
+  "src": "k-ft-marketer.png",
+  "ar": 0.5446428571428571
+ },
+ "bd": {
+  "src": "k-ft-bd.png",
+  "ar": 0.5446428571428571
+ },
+ "sales": {
+  "src": "k-ft-sales.png",
+  "ar": 0.5446428571428571
+ },
+ "strategy": {
+  "src": "k-ft-strategy.png",
+  "ar": 0.4244047619047619
+ },
+ "generalist": {
+  "src": "k-ft-generalist.png",
+  "ar": 0.5446428571428571
+ },
+ "partnerships": {
+  "src": "k-ft-partnerships.png",
+  "ar": 0.3672619047619048
+ },
+ "leadership": {
+  "src": "k-ft-leadership.png",
+  "ar": 0.5285714285714286
+ },
+ "hr": {
+  "src": "k-ft-hr.png",
+  "ar": 0.5446428571428571
+ },
+ "chro": {
+  "src": "k-ft-chro.png",
+  "ar": 0.5285714285714286
+ },
+ "siteleads": {
+  "src": "k-ft-siteleads.png",
+  "ar": 0.3738095238095238
+ },
+ "sitecountry": {
+  "src": "k-ft-sitecountry.png",
+  "ar": 0.3738095238095238
+ }
+}

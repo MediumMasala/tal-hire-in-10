@@ -1,0 +1,27 @@
+{
+  "name": "hire-in-10",
+  "version": "1.0.0",
+  "description": "tal in 10 / Hire in 10 mins ad (from Prometheus Figma 677:4278..5320)",
+  "private": true,
+  "scripts": {
+    "dev": "remotion studio",
+    "render": "remotion render HireIn10 out/hire-in-10.mp4 --crf=16"
+  },
+  "dependencies": {
+    "@remotion/cli": "^4.0.469",
+    "@remotion/fonts": "^4.0.499",
+    "@remotion/google-fonts": "^4.0.469",
+    "@remotion/layout-utils": "^4.0.499",
+    "@remotion/paths": "4.0.508",
+    "@remotion/rough-notation": "4.0.508",
+    "react": "^19.2.6",
+    "react-dom": "^19.2.6",
+    "remotion": "^4.0.469"
+  },
+  "devDependencies": {
+    "@types/react": "^19.2.15",
+    "@types/react-dom": "^19.2.3",
+    "@types/web": "^0.0.349",
+    "typescript": "^6.0.3"
+  }
+}

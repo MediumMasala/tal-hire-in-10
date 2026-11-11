@@ -1,0 +1,51 @@
+Photos: Unsplash (free Unsplash License; commercial use OK, no attribution required). Names are invented; the people pictured are Unsplash models.
+engineers     slot0 Aditya Kulkarni      https://images.unsplash.com/photo-1741064687353-464455bd11d5
+engineers     slot1 Neha Iyer            https://images.unsplash.com/photo-1764740146693-4955d02c98f9
+engineers     slot2 Rohan Das            https://images.unsplash.com/photo-1623000104444-02ff25404b99
+pm            slot0 Siddharth Jain       https://images.unsplash.com/photo-1761435756843-0ca5f4ff1d59
+pm            slot1 Ananya Menon         https://images.unsplash.com/photo-1749700332103-cbd639404ebf
+pm            slot2 Varun Reddy          https://images.unsplash.com/photo-1752952952773-80378cefc23d
+designer      slot0 Kabir Sethi          https://images.unsplash.com/photo-1624979215572-1230abc53d7c
+designer      slot1 Tara Fernandes       https://images.unsplash.com/photo-1762341116897-921e2a52f7ff
+designer      slot2 Nikhil Bose          https://images.unsplash.com/photo-1758560572645-0f7fa62ab59f
+marketer      slot0 Arjun Pillai         https://images.unsplash.com/photo-1649738463288-fc499fe96608
+marketer      slot1 Ishita Kapoor        https://images.unsplash.com/photo-1659355894139-ca46ea6fa67a
+marketer      slot2 Meera Joshi          https://images.unsplash.com/photo-1767607740661-05e668190cdc
+bd            slot0 Kunal Mehra          https://images.unsplash.com/photo-1589386417686-0d34b5903d23
+bd            slot1 Pranav Shah          https://images.unsplash.com/photo-1714328564923-d4826427c991
+bd            slot2 Simran Kaur          https://images.unsplash.com/photo-1770626884824-291d1f8fad45
+sales         slot0 Vivek Nair           https://images.unsplash.com/photo-1729824186959-ba83cbd1978d
+sales         slot1 Kavya Shetty         https://images.unsplash.com/photo-1770627000564-3feb36aecbcd
+sales         slot2 Imran Qureshi        https://images.unsplash.com/photo-1774437790865-76bfb73d7166
+strategy      slot0 Manav Gupta          https://images.unsplash.com/photo-1623095211984-10e4a9326bc4
+strategy      slot1 Arnav Saxena         https://images.unsplash.com/photo-1659353221405-29b7d087f9e5
+strategy      slot2 Harsh Vora           https://images.unsplash.com/photo-1720203979339-d3e21cf7ee5d
+generalist    slot0 Akash Tiwari         https://images.unsplash.com/photo-1666153658047-de52bbb14002
+generalist    slot1 Riddhi Desai         https://images.unsplash.com/photo-1789500381106-ba13068a6520
+generalist    slot2 Sameer Ansari        https://images.unsplash.com/photo-1757744705465-ea08b0ddc38a
+partnerships  slot0 Gautam Rao           https://images.unsplash.com/photo-1737573156037-d2bb948cd385
+partnerships  slot1 Nandini Krishnan     https://images.unsplash.com/photo-1777641646589-c371d6947d95
+partnerships  slot2 Abhishek Yadav       https://images.unsplash.com/photo-1717672054431-a420638cd543
+leadership    slot0 Rajiv Malhotra       https://images.unsplash.com/photo-1713947507130-227586ab3024
+leadership    slot1 Sunita Bhargava      https://images.unsplash.com/photo-1770627016447-cb9d29ed0398
+leadership    slot2 Ramesh Venkat        https://images.unsplash.com/photo-1758728119257-d88284600a48
+hr            slot0 Tushar Patil         https://images.unsplash.com/photo-1737574994780-e31827afaed7
+hr            slot1 Sneha Arora          https://images.unsplash.com/photo-1689580298851-d4482a124290
+hr            slot2 Mohit Bansal         https://images.unsplash.com/photo-1752738372136-2602aaafdcb7
+chro          slot0 Prakash Iyengar      https://images.unsplash.com/photo-1774528205285-53a125a51983
+chro          slot1 Vikrant Sood         https://images.unsplash.com/photo-1787724779241-cb5c250ed70b
+chro          slot2 Aparna Mishra        https://images.unsplash.com/photo-1637589267610-6c66fc2a086b
+siteleads     slot0 Sanjay Kumar         https://images.unsplash.com/photo-1772301685774-a4f0e81e032e
+siteleads     slot1 Rahul Bhatt          https://images.unsplash.com/photo-1659355894406-977b8c4503d5
+siteleads     slot2 Lakshmi Narayanan    https://images.unsplash.com/photo-1635341539956-f71faf82d9df
+sitecountry   slot0 Deepak Chawla        https://images.unsplash.com/photo-1632482150953-127961e0a2d4
+sitecountry   slot1 Anirudh Sharma       https://images.unsplash.com/photo-1778692258270-bc0e80e975c0
+sitecountry   slot2 Arvind Ghosh         https://images.unsplash.com/photo-1771244688590-1e481dba1b5a
+anyrole       Aman Verma           https://images.unsplash.com/photo-1775342369616-f23a25e866d3
+anyrole       Ritika Agarwal       https://images.unsplash.com/photo-1633268255907-c8d6033204c1
+anyrole       Karthik Raman        https://images.unsplash.com/photo-1758561274313-536bf1c4192c
+anyrole v2    Aman Verma           https://images.unsplash.com/photo-1667655861998-46fe4c29a4cf
+anyrole v2    Ritika Agarwal       https://images.unsplash.com/photo-1774850235906-f5eaafb425ac
+anyrole v2    Karthik Raman        https://images.unsplash.com/photo-1656399910089-b7ead999bf23
+anyrole v3    Karthik Raman        https://images.unsplash.com/photo-1604177091072-b7b677a077f6
+anyrole v3    Shruti Raman         https://images.unsplash.com/photo-1582828835690-22a88e8dd257
